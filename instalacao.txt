@@ -1,0 +1,8 @@
+dependencias basicas: Anaconda
+                      Pycharm
+
+Criar um ambiente virtual no anaconda
+
+Instalar bibliotecas: Dlib (conda install -c conda-forge dlib)
+                      OpenCV (conda install -c conda-forge opencv)
+                      Pillow (conda install -c conda-forge pillow)
